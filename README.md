@@ -3,7 +3,12 @@
 随着 Telegram（TG）的用户越来越多，关于 **TG会员、Telegram Premium、TG会员多少钱、TG会员怎么开通、Telegram Premium值不值得买** 等问题，也成为不少用户经常搜索的内容。
 
 对于第一次接触 Telegram Premium 的用户来说，在开通之前了解功能、适用人群以及开通方式，可以帮助自己选择更适合的方案。
+## Telegram Premium实用教程
 
+- [Telegram Premium可以送好友吗？TG会员礼品赠送教程](./telegram-premium-gift-to-friend.md)
+- [Telegram Premium充值不到账怎么办？](./telegram-premium-not-activated.md)
+- [TG会员代充安全吗？](./telegram-premium-recharge-safe.md)
+- [Telegram出现SMS Fee怎么办？](./telegram-sms-fee-login-code.md)
 ---
 
 ## TG会员是什么？
